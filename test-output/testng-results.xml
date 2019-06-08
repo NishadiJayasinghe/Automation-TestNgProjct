@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16597" started-at="2019-05-30T04:32:08Z" finished-at="2019-05-30T04:32:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16597" started-at="2019-05-30T04:32:08Z" finished-at="2019-05-30T04:32:25Z">
+      <class name="Guru99.Guru99">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:Guru99.Guru99@56f4468b]" name="launchDriver" is-config="true" duration-ms="12683" started-at="2019-05-30T10:02:08Z" finished-at="2019-05-30T10:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="register()[pri:0, instance:Guru99.Guru99@56f4468b]" name="register" duration-ms="799" started-at="2019-05-30T10:02:21Z" finished-at="2019-05-30T10:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="title()[pri:1, instance:Guru99.Guru99@56f4468b]" name="title" duration-ms="125" started-at="2019-05-30T10:02:22Z" finished-at="2019-05-30T10:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="FirstName()[pri:2, instance:Guru99.Guru99@56f4468b]" name="FirstName" duration-ms="108" started-at="2019-05-30T10:02:22Z" finished-at="2019-05-30T10:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstName -->
+        <test-method status="PASS" signature="surName()[pri:3, instance:Guru99.Guru99@56f4468b]" name="surName" duration-ms="71" started-at="2019-05-30T10:02:22Z" finished-at="2019-05-30T10:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- surName -->
+        <test-method status="PASS" signature="year()[pri:4, instance:Guru99.Guru99@56f4468b]" name="year" duration-ms="68" started-at="2019-05-30T10:02:22Z" finished-at="2019-05-30T10:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- year -->
+        <test-method status="PASS" signature="month()[pri:5, instance:Guru99.Guru99@56f4468b]" name="month" duration-ms="133" started-at="2019-05-30T10:02:22Z" finished-at="2019-05-30T10:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- month -->
+        <test-method status="PASS" signature="day()[pri:6, instance:Guru99.Guru99@56f4468b]" name="day" duration-ms="97" started-at="2019-05-30T10:02:22Z" finished-at="2019-05-30T10:02:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- day -->
+        <test-method status="PASS" signature="radiBTN()[pri:7, instance:Guru99.Guru99@56f4468b]" name="radiBTN" duration-ms="46" started-at="2019-05-30T10:02:23Z" finished-at="2019-05-30T10:02:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radiBTN -->
+        <test-method status="PASS" signature="create()[pri:8, instance:Guru99.Guru99@56f4468b]" name="create" duration-ms="1273" started-at="2019-05-30T10:02:23Z" finished-at="2019-05-30T10:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method status="PASS" signature="selenium()[pri:9, instance:Guru99.Guru99@56f4468b]" name="selenium" duration-ms="202" started-at="2019-05-30T10:02:24Z" finished-at="2019-05-30T10:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium -->
+        <test-method status="PASS" signature="yahoo()[pri:10, instance:Guru99.Guru99@56f4468b]" name="yahoo" duration-ms="32" started-at="2019-05-30T10:02:24Z" finished-at="2019-05-30T10:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoo -->
+        <test-method status="PASS" signature="TerminateDriver()[pri:0, instance:Guru99.Guru99@56f4468b]" name="TerminateDriver" is-config="true" duration-ms="932" started-at="2019-05-30T10:02:24Z" finished-at="2019-05-30T10:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminateDriver -->
+      </class> <!-- Guru99.Guru99 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
